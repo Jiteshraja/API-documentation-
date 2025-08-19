@@ -1,2 +1,2 @@
-# API-documentation-
+# API-documentation
 Sample docs
